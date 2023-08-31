@@ -12,4 +12,5 @@ make CMAKE_BUILD_TYPE=RelWithDebInfo
 sudo make install
 cd -
 
-# 
+# install .tmux.conf file
+cp .tmux.conf ~
